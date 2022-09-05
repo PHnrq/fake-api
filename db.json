@@ -40,7 +40,20 @@
           "productImage": "https://static.paodeacucar.com/img/uploads/1/748/525748.jpg"
         }
       ],
-      "chart": []
+      "chart": [
+        {
+          "nameProduct": "Feijão Preto",
+          "amount": 1,
+          "expirationDate": "2022-08-30",
+          "productImage": "https://static.paodeacucar.com/img/uploads/1/42/530042.jpg"
+        },
+        {
+          "nameProduct": "Margarina",
+          "amount": 1,
+          "expirationDate": "2023-01-31",
+          "productImage": "https://static.clubeextra.com.br/img/uploads/1/576/19830576.jpg"
+        },
+      ]
     },
     {
       "name": "ONG Criança Feliz",
