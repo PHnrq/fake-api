@@ -42,16 +42,28 @@
       ],
       "chart": [
         {
-          "nameProduct": "Feijão Preto",
-          "amount": 1,
-          "expirationDate": "2022-08-30",
-          "productImage": "https://static.paodeacucar.com/img/uploads/1/42/530042.jpg"
-        },
-        {
-          "nameProduct": "Margarina",
-          "amount": 1,
-          "expirationDate": "2023-01-31",
-          "productImage": "https://static.clubeextra.com.br/img/uploads/1/576/19830576.jpg"
+          "client" : "ONG Criança Feliz",
+          "withdraw": "2023-01-31",
+          "cart": [
+              {
+                "nameProduct": "Feijão Preto",
+                "amount": 1,
+                "expirationDate": "2022-08-30",
+                "productImage": "https://static.paodeacucar.com/img/uploads/1/42/530042.jpg"
+              },
+              {
+                "nameProduct": "Margarina",
+                "amount": 1,
+                "expirationDate": "2023-01-31",
+                "productImage": "https://static.clubeextra.com.br/img/uploads/1/576/19830576.jpg"
+              },
+              {
+                "nameProduct": "Farinha de Trigo",
+                "amount": 4,
+                "expirationDate": "2022-12-31",
+                "productImage": "https://static.paodeacucar.com/img/uploads/1/748/525748.jpg"
+              }
+          ]
         }
       ]
     },
